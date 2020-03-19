@@ -7,7 +7,7 @@ This activity involved analyzing school district information from excel sheets u
 The excel sheet data sets are located in the Resources folder. The pandas analysis notebook which contains the individual analyses is called "PyCitySchools_Analysis".
 
 ### Technology Used:
-*Jupyter Notebook
-*Pandas
-*Python
+Jupyter Notebook  
+Pandas  
+Python  
 
